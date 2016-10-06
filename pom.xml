@@ -82,6 +82,7 @@
         </dependency>
     </dependencies>
 
+	
     <properties>
         <java.version>1.8</java.version>
         <git.commit.link>${project.scm.url}/commit/${buildNumber}</git.commit.link>
